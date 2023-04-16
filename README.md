@@ -23,7 +23,7 @@ pkg install git
 git clone https://github.com/RamitRawal07/RAMITxV4
 
 
-cd HARRYv4
+cd RAMITv4
 
 
 python run.py
