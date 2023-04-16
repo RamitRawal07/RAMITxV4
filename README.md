@@ -10,10 +10,22 @@ pip install requests
 
 pip install mechanize
 
-rm -rf MAFIA
+rm -rf RAMIT
 
-git clone --depth=1 https://github.com/Muzammil-404/MAFIA.git
+git clone --depth=1 pkg install python   
 
-cd MAFIA
 
-python MAFIA.py
+
+pkg install git 
+
+
+
+git clone https://github.com/RamitRawal07/RAMITxV4
+
+
+cd HARRYv4
+
+
+python run.py
+
+python RAMIT.py
