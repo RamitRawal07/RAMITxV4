@@ -1,0 +1,3 @@
+git clone https://github.com/CYB3R-A1IF/ADVANCE-EID-MOBAROK
+cd ADVANCE-EID-MOBAROK
+python ADVANCE-EID-MOBAROK.py
